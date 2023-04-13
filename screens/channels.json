@@ -2,10 +2,10 @@
   "channels": [
     {
       "manifestPath": "/internal/screens/internal/noida-132.manifest.json",
-      "lastModified": "2023-04-13T13:27:41.000Z",
+      "lastModified": "2023-04-13T20:56:37.000Z",
       "externalId": "/screens/internal/noida-132",
       "liveUrl": "https://main--inside-adobe-screens--div8063.hlx.live/internal/screens/internal/noida-132.html",
-      "title": "Columns(locations)"
+      "title": "Noida-132"
     }
   ]
 }
