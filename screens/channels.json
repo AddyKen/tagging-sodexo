@@ -1,10 +1,10 @@
 {
   "channels": [
     {
-      "manifestPath": "/internal/screens/asia/noida-132.manifest.json",
-      "lastModified": "2023-04-12T14:47:56.000Z",
-      "externalId": "/screens/asia/noida-132",
-      "liveUrl": "https://main--inside-adobe-screens--div8063.hlx.live/internal/screens/asia/noida-132.html"
+      "manifestPath": "/internal/screens/internal/noida-132.manifest.json",
+      "lastModified": "2023-04-13T08:11:02.000Z",
+      "externalId": "/screens/internal/noida-132",
+      "liveUrl": "https://main--inside-adobe-screens--div8063.hlx.live/internal/screens/internal/noida-132.html"
     }
   ]
 }
