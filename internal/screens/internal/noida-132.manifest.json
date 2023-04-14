@@ -9,55 +9,55 @@
     ],
     "defaultProvider": "franklin"
   },
-  "timestamp": 1681475799029,
+  "timestamp": 1681475969447,
   "entries": [
     {
       "path": "/internal/screens/internal/noida-132.html",
-      "timestamp": 1681467503000
+      "timestamp": 1681475967800
     },
     {
       "path": "/scripts/lib-franklin.js",
-      "timestamp": 1681467502000
+      "timestamp": 1681475806000
     },
     {
       "path": "/scripts/scripts.js",
-      "timestamp": 1681467502000
+      "timestamp": 1681475806000
     },
     {
       "path": "/styles/styles.css",
-      "timestamp": 1681467502000
+      "timestamp": 1681475806000
     },
     {
       "path": "/scripts/delayed.js",
-      "timestamp": 1681467502000
+      "timestamp": 1681475806000
     },
     {
       "path": "/blocks/columns/columns.css",
-      "timestamp": 1681467501000
+      "timestamp": 1681475805000
     },
     {
       "path": "/blocks/columns/columns.js",
-      "timestamp": 1681467501000
+      "timestamp": 1681475805000
     },
     {
       "path": "/blocks/header/header.js",
-      "timestamp": 1681467501000
+      "timestamp": 1681475805000
     },
     {
       "path": "/blocks/header/header.css",
-      "timestamp": 1681467501000
+      "timestamp": 1681475805000
     },
     {
       "path": "/blocks/footer/footer.js",
-      "timestamp": 1681467501000
+      "timestamp": 1681475805000
     },
     {
       "path": "/blocks/footer/footer.css",
-      "timestamp": 1681467501000
+      "timestamp": 1681475805000
     },
     {
       "path": "/styles/lazy-styles.css",
-      "timestamp": 1681467502000
+      "timestamp": 1681475806000
     }
   ]
 }
