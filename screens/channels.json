@@ -4,8 +4,11 @@
       "manifestPath": "/internal/screens/internal/noida-132.manifest.json",
       "lastModified": "2023-04-14T10:18:23.000Z",
       "externalId": "/screens/internal/noida-132",
-      "liveUrl": "https://main--inside-adobe-screens--div8063.hlx.live/internal/screens/internal/noida-132.html",
-      "title": "Noida-132"
+      "title": "Noida-132",
+      "liveUrl": "https://main--inside-adobe-screens--div8063.hlx.live/internal/screens/internal/noida-132.html"
     }
-  ]
+  ],
+  "metadata": {
+    "providerType": "franklin"
+  }
 }
