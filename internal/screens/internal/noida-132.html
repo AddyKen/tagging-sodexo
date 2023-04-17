@@ -68,6 +68,9 @@
     }
 
     const checkForPlayableAssets = async (assets = []) => {
+        if (assets.length === 0) {
+            return;
+        }
         let isActive = false;
         assets.forEach((asset) => {
             const launchStartDate = parseStartDateString(asset.launchStartDate, asset.isGMT);
