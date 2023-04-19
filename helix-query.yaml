@@ -2,8 +2,8 @@ version: 1
 indices:
   channels:
     include:
-      - '/screens/internal/**'
-    target: '/screens/internal/channels'
+      - '/content/screens/**'
+    target: '/internal/screens/channels'
     properties:
       title:
         select: head > meta[property="og:title"]
@@ -34,8 +34,8 @@ indices:
           attribute(el, 'href')
   channel-manifest:
     include:
-      - '/screens/internal/**'
-    target: '/screens/internal/manifests'
+      - '/content/screens/**'
+    target: '/internal/screens/manifests'
     properties:
       title:
         select: head > meta[property="og:title"]
