@@ -303,6 +303,10 @@ export default async function decorate(block) {
         console.log(`Assets extracted for channel: ${JSON.stringify(assets)}`);
         await runCarousel(assets);
     }
+    const header = document.getElementsByTagName('header');
+    if (header && header[0]) {
+        header[0].remove();
+    }
     const main = document.getElementsByTagName('main')[0];
     main.style.opacity = 0;
     const carouselContainer = document.createElement('div');
