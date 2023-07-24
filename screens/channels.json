@@ -2,10 +2,10 @@
   "channels": [
     {
       "manifestPath": "/content/screens/tagging/dynamic-channel.manifest.json",
-      "lastModified": "2023-07-24T12:09:33.000Z",
+      "lastModified": "2023-07-24T13:23:26.000Z",
       "externalId": "/content/screens/tagging/dynamic-channel",
       "title": "Dynamic Channel",
-      "liveUrl": "https://main--tagging-sodexo--addyken.hlx.live/content/screens/tagging/dynamic-channel.html"
+      "liveUrl": "https://main--tagging-sodexo--addyken.hlx.live/content/screens/tagging/dynamic-channel"
     }
   ],
   "metadata": {
