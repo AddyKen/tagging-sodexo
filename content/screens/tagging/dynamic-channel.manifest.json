@@ -9,10 +9,11 @@
     ],
     "defaultProvider": "franklin"
   },
-  "timestamp": 1690198774441,
+  "timestamp": 1690199222236,
   "entries": [
     {
-      "path": "/content/screens/tagging/dynamic-channel.html"
+      "path": "/content/screens/tagging/dynamic-channel.html",
+      "timestamp": 1690198779000
     }
   ]
 }
