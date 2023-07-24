@@ -1,11 +1,11 @@
 {
   "channels": [
     {
-      "manifestPath": "/internal/screens/internal/noida-132.manifest.json",
-      "lastModified": "2023-04-17T11:00:42.965Z",
-      "externalId": "/screens/internal/noida-132",
-      "title": "Sequence-Channel(locations)",
-      "liveUrl": "https://main--inside-adobe-screens--div8063.hlx.live/internal/screens/internal/noida-132.html"
+      "manifestPath": "/content/screens/tagging/dynamic-channel.manifest.json",
+      "lastModified": "1970-01-01T00:00:00.000Z",
+      "externalId": "/content/screens/tagging/dynamic-channel",
+      "title": "Dynamic Channel",
+      "liveUrl": "https://main--tagging-sodexo--addyken.hlx.live/content/screens/tagging/dynamic-channel.html"
     }
   ],
   "metadata": {
