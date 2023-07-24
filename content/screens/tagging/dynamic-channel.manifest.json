@@ -9,11 +9,23 @@
     ],
     "defaultProvider": "franklin"
   },
-  "timestamp": 1690199222236,
+  "timestamp": 1690199855105,
   "entries": [
     {
       "path": "/content/screens/tagging/dynamic-channel.html",
       "timestamp": 1690198779000
+    },
+    {
+      "path": "/content/screens/assets/zarablack.png",
+      "timestamp": 1690199572000
+    },
+    {
+      "path": "/content/screens/assets/cold-weather.png",
+      "timestamp": 1690199467000
+    },
+    {
+      "path": "/content/screens/assets/zara-summer-sale.png",
+      "timestamp": 1690199624000
     }
   ]
 }
