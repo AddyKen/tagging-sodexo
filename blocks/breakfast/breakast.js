@@ -325,13 +325,14 @@ export default async function decorate(block) {
     carouselContainer.setAttribute('menuHeading',sheetDetails.name);
     // carouselContainer.parentNode.insertBefore(breakfastHeading,carouselContainer);
     console.log(JSON.stringify(sheetDetails));
+    const linkObj =  new URL(sheetDetails.link);
     if (!sheetDetails) {
       console.warn(`No sheet data available during HTML generation`);
     }
     const assets = [];
     let errorFlag = false;
     try {
-        const sheetDataResponse = JSON.parse(await fetchData(sheetDetails.link)); //sheetdataresponse has the object in sodexo-schedules.json
+        const sheetDataResponse = JSON.parse(await fetchData(linkObj)); //sheetdataresponse has the object in sodexo-schedules.json
         console.log(JSON.stringify(sheetDataResponse));
         // console.log(JSON.stringify(assetListLinks));
         if (!sheetDataResponse) {
