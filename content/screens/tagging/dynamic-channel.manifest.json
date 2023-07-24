@@ -9,11 +9,11 @@
     ],
     "defaultProvider": "franklin"
   },
-  "timestamp": 1690205510065,
+  "timestamp": 1690206040260,
   "entries": [
     {
-      "path": "/content/screens/tagging/dynamic-channel",
-      "timestamp": 1690200576000
+      "path": "/content/screens/tagging/dynamic-channel.html",
+      "timestamp": 1690206039514
     },
     {
       "path": "/scripts/lib-franklin.js",
