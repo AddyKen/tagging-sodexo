@@ -2,7 +2,7 @@
   "channels": [
     {
       "manifestPath": "/content/screens/tagging/dynamic-channel.manifest.json",
-      "lastModified": "2023-07-24T13:40:39.514Z",
+      "lastModified": "2023-07-24T13:40:44.000Z",
       "hierarchy": [
         {
           "title": "screens",
